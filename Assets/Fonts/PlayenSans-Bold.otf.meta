@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c1a30d544ea7db84d9a8f0487c842f7b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Playen Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c023761686539174b8c4f4c4f0678ffb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
