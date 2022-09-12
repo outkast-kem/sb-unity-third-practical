@@ -225,9 +225,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2e5b0000
-      m_LastClickedID: 23342
-      m_ExpandedIDs: 32fbffff8c5a0000ee5a0000
+      m_SelectedIDs: 8c5a0000
+      m_LastClickedID: 23180
+      m_ExpandedIDs: f8faffff32fbfffffe590000ee5a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -676,21 +676,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Sprites
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Sprites
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Projects\UnityProjects\ThirdPracticalProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 905c0000
-    m_LastClickedID: 23696
+    m_SelectedIDs: 945c0000
+    m_LastClickedID: 23700
     m_ExpandedIDs: 00000000585c00005a5c00005c5c00005e5c0000605c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -744,8 +744,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 2e5b0000
-    m_LastClickedInstanceID: 23342
+    m_SelectedInstanceIDs: 8c5a0000
+    m_LastClickedInstanceID: 23180
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000825b000000000000
     m_RenameOverlay:
